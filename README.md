@@ -10,7 +10,7 @@ A web app can recommend the job for you
 
 ## Problem
 * The github api Provide too little Posintion. which influence the display result
-* The monkey learn may api limited the timesmay cause the keyword extract fail and then not display the keyword 
+* The monkey learn may api limited the times may cause the keyword extract fail and then not display the keyword 
 
 ## To do:
  change the api which can display more job position
